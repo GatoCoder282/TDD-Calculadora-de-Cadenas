@@ -116,9 +116,31 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "deb085c80a07e92ae7628673b3efde1fb9b4f6a3",
     "commitName": "caso con doble separador",
     "commitTimestamp": 1779679136043,
     "testId": 6
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1779679369073,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1779679401377,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "caso de uso arreglado",
+    "commitTimestamp": 1779679417475,
+    "testId": 7
   }
 ]
