@@ -30,9 +30,23 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "1e6c4cee4fa9f88ac405de5bdc17ff70fb157d5c",
     "commitName": "test fallando a proposito",
     "commitTimestamp": 1779677308834,
     "testId": 1
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1779677360826,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "caso basico test agregado",
+    "commitTimestamp": 1779678344850,
+    "testId": 2
   }
 ]
