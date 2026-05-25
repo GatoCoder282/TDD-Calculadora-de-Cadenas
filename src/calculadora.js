@@ -1,8 +1,9 @@
-function calculadora_de_cadenas(cadena) {
+function calculadora_de_cadenas(cadena, separador) {
     let resultado = 0;
+    const numeros = cadena.split(separador);
 
-    for (let indice = 0; indice < cadena.length ; indice += 1) {
-        resultado += Number(cadena[indice]);
+    for (let i = 0; i < numeros.length; i++) {
+        resultado += Number(numeros[i]);
     }
 
     return resultado;

@@ -76,12 +76,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "e3f5d6efdc3abdcd20783aedda7881e536f60e6a",
     "author": "GatoCoder282",
     "commit": {
       "date": "2026-05-25T03:12:50.000Z",
       "message": "caso de prueba con separador agregado",
-      "url": "https://github.com/GatoCoder282/TDD-Calculadora-de-Cadenas/commit/HEAD"
+      "url": "https://github.com/GatoCoder282/TDD-Calculadora-de-Cadenas/commit/e3f5d6efdc3abdcd20783aedda7881e536f60e6a"
     },
     "stats": {
       "total": 8,
@@ -93,5 +93,24 @@
     "test_count": 5,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "GatoCoder282",
+    "commit": {
+      "date": "2026-05-25T03:15:55.000Z",
+      "message": "funcion arreglada para incluir separadores",
+      "url": "https://github.com/GatoCoder282/TDD-Calculadora-de-Cadenas/commit/HEAD"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 6,
+      "deletions": 5,
+      "date": "2026-05-25"
+    },
+    "coverage": 100,
+    "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]

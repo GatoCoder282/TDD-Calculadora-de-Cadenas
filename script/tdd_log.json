@@ -64,9 +64,39 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "e3f5d6efdc3abdcd20783aedda7881e536f60e6a",
     "commitName": "caso de prueba con separador agregado",
     "commitTimestamp": 1779678772173,
     "testId": 4
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1779678790477,
+    "success": false,
+    "testId": 5
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1779678877080,
+    "success": false,
+    "testId": 5
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1779678918317,
+    "success": true,
+    "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "funcion arreglada para incluir separadores",
+    "commitTimestamp": 1779678956328,
+    "testId": 5
   }
 ]
