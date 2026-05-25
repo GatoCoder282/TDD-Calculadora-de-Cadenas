@@ -44,9 +44,23 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "b5bd8e63f845fcbddcf137fd0cc65f54449ca16f",
     "commitName": "caso basico test agregado",
     "commitTimestamp": 1779678344850,
     "testId": 2
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1779678450440,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "cambio en la funcion para que pasen los dos test",
+    "commitTimestamp": 1779678478343,
+    "testId": 3
   }
 ]

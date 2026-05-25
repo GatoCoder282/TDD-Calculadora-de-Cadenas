@@ -38,12 +38,12 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "b5bd8e63f845fcbddcf137fd0cc65f54449ca16f",
     "author": "GatoCoder282",
     "commit": {
       "date": "2026-05-25T03:05:43.000Z",
       "message": "caso basico test agregado",
-      "url": "https://github.com/GatoCoder282/TDD-Calculadora-de-Cadenas/commit/HEAD"
+      "url": "https://github.com/GatoCoder282/TDD-Calculadora-de-Cadenas/commit/b5bd8e63f845fcbddcf137fd0cc65f54449ca16f"
     },
     "stats": {
       "total": 4,
@@ -55,5 +55,24 @@
     "test_count": 3,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "GatoCoder282",
+    "commit": {
+      "date": "2026-05-25T03:07:57.000Z",
+      "message": "cambio en la funcion para que pasen los dos test",
+      "url": "https://github.com/GatoCoder282/TDD-Calculadora-de-Cadenas/commit/HEAD"
+    },
+    "stats": {
+      "total": 2,
+      "additions": 1,
+      "deletions": 1,
+      "date": "2026-05-25"
+    },
+    "coverage": 100,
+    "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
