@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "a922dd161dfc4c7763576efed5c97c5705a8c972",
     "author": "GatoCoder282",
     "commit": {
       "date": "2026-05-25T02:32:28.000Z",
       "message": "first commit",
-      "url": "https://github.com/GatoCoder282/TDD-Calculadora-de-Cadenas/commit/HEAD"
+      "url": "https://github.com/GatoCoder282/TDD-Calculadora-de-Cadenas/commit/a922dd161dfc4c7763576efed5c97c5705a8c972"
     },
     "stats": {
       "total": 0,
@@ -17,5 +17,24 @@
     "test_count": 1,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "GatoCoder282",
+    "commit": {
+      "date": "2026-05-25T02:48:27.000Z",
+      "message": "test fallando a proposito",
+      "url": "https://github.com/GatoCoder282/TDD-Calculadora-de-Cadenas/commit/HEAD"
+    },
+    "stats": {
+      "total": 16,
+      "additions": 16,
+      "deletions": 0,
+      "date": "2026-05-25"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]

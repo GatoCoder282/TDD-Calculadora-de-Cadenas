@@ -8,9 +8,31 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "a922dd161dfc4c7763576efed5c97c5705a8c972",
     "commitName": "first commit",
     "commitTimestamp": 1779676349548,
     "testId": 0
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 1,
+    "numTotalTests": 2,
+    "timestamp": 1779677109130,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 1,
+    "numTotalTests": 2,
+    "timestamp": 1779677219682,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "test fallando a proposito",
+    "commitTimestamp": 1779677308834,
+    "testId": 1
   }
 ]
