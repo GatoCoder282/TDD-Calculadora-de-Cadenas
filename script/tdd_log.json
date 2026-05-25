@@ -94,9 +94,31 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "666deebba1e0983315716db7a2ccbac3b9a7ee09",
     "commitName": "funcion arreglada para incluir separadores",
     "commitTimestamp": 1779678956328,
     "testId": 5
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1779679086524,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 1,
+    "numTotalTests": 6,
+    "timestamp": 1779679110876,
+    "success": false,
+    "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "caso con doble separador",
+    "commitTimestamp": 1779679136043,
+    "testId": 6
   }
 ]
