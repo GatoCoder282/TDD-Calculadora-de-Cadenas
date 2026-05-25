@@ -58,9 +58,15 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "43790da7a2fec1f7da735e14b824f079d1511bc2",
     "commitName": "cambio en la funcion para que pasen los dos test",
     "commitTimestamp": 1779678478343,
     "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "caso de prueba con separador agregado",
+    "commitTimestamp": 1779678772173,
+    "testId": 4
   }
 ]
