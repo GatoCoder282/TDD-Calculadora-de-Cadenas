@@ -12,6 +12,14 @@ test('Calculadora de cadenas: "123" debe ser igual a 6', () => {
     expect(calculadora_de_cadenas("123", "")).toBe(6);
 });
 
+test('Calculadora de cadenas: "1 2 3" debe ser igual a 6', () => {
+    expect(calculadora_de_cadenas("1 2 3", "")).toBe(6);
+});
+
+test('Calculadora de cadenas: "12 3" debe ser igual a 6', () => {
+    expect(calculadora_de_cadenas("12 3", "")).toBe(6);
+});
+
 test('Calculadora de cadenas: "1,2,3" debe ser igual a 6', () => {
     expect(calculadora_de_cadenas("1,2,3", ",")).toBe(6);
 });
