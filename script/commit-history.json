@@ -152,12 +152,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "b90fb944a9ba6ab9ef802bac384310f3408686cd",
     "author": "GatoCoder282",
     "commit": {
       "date": "2026-05-25T03:26:29.000Z",
       "message": "falla con uso de numeros de varios digitos",
-      "url": "https://github.com/GatoCoder282/TDD-Calculadora-de-Cadenas/commit/HEAD"
+      "url": "https://github.com/GatoCoder282/TDD-Calculadora-de-Cadenas/commit/b90fb944a9ba6ab9ef802bac384310f3408686cd"
     },
     "stats": {
       "total": 12,
@@ -169,5 +169,24 @@
     "test_count": 9,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "GatoCoder282",
+    "commit": {
+      "date": "2026-05-27T22:29:17.000Z",
+      "message": "arreglo de codigo",
+      "url": "https://github.com/GatoCoder282/TDD-Calculadora-de-Cadenas/commit/HEAD"
+    },
+    "stats": {
+      "total": 22,
+      "additions": 13,
+      "deletions": 9,
+      "date": "2026-05-27"
+    },
+    "coverage": 100,
+    "test_count": 9,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]

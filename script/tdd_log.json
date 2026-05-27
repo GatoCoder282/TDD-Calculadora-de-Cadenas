@@ -168,9 +168,39 @@
     "testId": 8
   },
   {
-    "commitId": "HEAD",
+    "commitId": "b90fb944a9ba6ab9ef802bac384310f3408686cd",
     "commitName": "falla con uso de numeros de varios digitos",
     "commitTimestamp": 1779679590945,
     "testId": 8
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 1,
+    "numTotalTests": 9,
+    "timestamp": 1779918858327,
+    "success": false,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 0,
+    "numTotalTests": 9,
+    "timestamp": 1779920256635,
+    "success": true,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 0,
+    "numTotalTests": 9,
+    "timestamp": 1779920270793,
+    "success": true,
+    "testId": 9
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "arreglo de codigo",
+    "commitTimestamp": 1779920959150,
+    "testId": 9
   }
 ]
