@@ -220,9 +220,23 @@
     "testId": 10
   },
   {
-    "commitId": "HEAD",
+    "commitId": "b1d149a8c79824228da784b2160040ed9e1edc08",
     "commitName": "pruebas agregadas para ver validacion",
     "commitTimestamp": 1779921739912,
     "testId": 10
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 4,
+    "numTotalTests": 11,
+    "timestamp": 1779921973929,
+    "success": false,
+    "testId": 11
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "fix de formato de caneda ingresada",
+    "commitTimestamp": 1779922000634,
+    "testId": 11
   }
 ]

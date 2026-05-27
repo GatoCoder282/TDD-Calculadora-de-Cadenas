@@ -21,11 +21,11 @@ test('Calculadora de cadenas: "12 3" debe ser igual a 6', () => {
 });
 
 test('Calculadora de cadenas: "1,2,3" debe ser igual a 6', () => {
-    expect(calculadora_de_cadenas("1,2,3", ",")).toBe(6);
+    expect(calculadora_de_cadenas("//[,] 1,2,3")).toBe(6);
 });
 
 test('Calculadora de cadenas: "1-2,3" debe ser igual a 6', () => {
-    expect(calculadora_de_cadenas("1-2,3", "-")).toBe(6);
+    expect(calculadora_de_cadenas("//[-] 1-2,3")).toBe(6);
 });
 
 test('Calculadora de cadenas: "4,5-6" debe ser igual a 15', () => {
@@ -33,9 +33,9 @@ test('Calculadora de cadenas: "4,5-6" debe ser igual a 15', () => {
 });
 
 test('Calculadora de cadenas: "7;8;9" debe ser igual a 24', () => {
-    expect(calculadora_de_cadenas("7;8;9", ";")).toBe(24);
+    expect(calculadora_de_cadenas("//[;] 7;8;9")).toBe(24);
 });
 
 test('Calculadora de cadenas: "10-11,12;13" debe ser igual a 46', () => {
-    expect(calculadora_de_cadenas("10-11,12;13", ";")).toBe(46);
+    expect(calculadora_de_cadenas("//[;] 10-11,12;13")).toBe(46);
 });
