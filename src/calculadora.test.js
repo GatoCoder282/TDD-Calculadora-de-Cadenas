@@ -39,3 +39,15 @@ test('Calculadora de cadenas: "7;8;9" debe ser igual a 24', () => {
 test('Calculadora de cadenas: "10-11,12;13" debe ser igual a 46', () => {
     expect(calculadora_de_cadenas("//[;] 10-11,12;13")).toBe(46);
 });
+
+test('Calculadora de cadenas: "10-11,12;;;13" debe ser igual a 46', () => {
+    expect(calculadora_de_cadenas("//[;;;] 10-11,12;;;13")).toBe(46);
+});
+
+test('Calculadora de cadenas: "10-11,12;;;13:14" debe ser igual a 46', () => {
+    expect(calculadora_de_cadenas("//[;;;][:] 10-11,12;;;13:14")).toBe(46);
+});
+
+test('Calculadora de cadenas: "10-11,12;;;13::14" debe ser igual a 46', () => {
+    expect(calculadora_de_cadenas("//[;;;][::] 10-11,12;;;13::14")).toBe(46);
+});

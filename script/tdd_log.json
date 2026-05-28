@@ -264,9 +264,39 @@
     "testId": 12
   },
   {
-    "commitId": "HEAD",
+    "commitId": "4b18fe4e1309f5979fb6b3044fd0be834603aedc",
     "commitName": "fix: formato de delimitador en funcion",
     "commitTimestamp": 1779932210420,
     "testId": 12
+  },
+  {
+    "numPassedTests": 12,
+    "failedTests": 0,
+    "numTotalTests": 12,
+    "timestamp": 1779932289550,
+    "success": true,
+    "testId": 13
+  },
+  {
+    "numPassedTests": 12,
+    "failedTests": 2,
+    "numTotalTests": 14,
+    "timestamp": 1779932353760,
+    "success": false,
+    "testId": 13
+  },
+  {
+    "numPassedTests": 12,
+    "failedTests": 2,
+    "numTotalTests": 14,
+    "timestamp": 1779932401587,
+    "success": false,
+    "testId": 13
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "test: agregados test de multiples delimitadores aceptados",
+    "commitTimestamp": 1779932523769,
+    "testId": 13
   }
 ]
