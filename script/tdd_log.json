@@ -234,9 +234,39 @@
     "testId": 11
   },
   {
-    "commitId": "HEAD",
+    "commitId": "449c1b81adbb72546c5a581f5ac74025d030481f",
     "commitName": "fix de formato de caneda ingresada",
     "commitTimestamp": 1779922000634,
     "testId": 11
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 0,
+    "numTotalTests": 11,
+    "timestamp": 1779922097870,
+    "success": true,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 0,
+    "numTotalTests": 11,
+    "timestamp": 1779922210858,
+    "success": true,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 0,
+    "numTotalTests": 11,
+    "timestamp": 1779932170368,
+    "success": true,
+    "testId": 12
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "fix: formato de delimitador en funcion",
+    "commitTimestamp": 1779932210420,
+    "testId": 12
   }
 ]
