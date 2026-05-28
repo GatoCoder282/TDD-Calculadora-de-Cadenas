@@ -294,9 +294,23 @@
     "testId": 13
   },
   {
-    "commitId": "HEAD",
+    "commitId": "ca75feb60cce08f90751349158136026c30af62c",
     "commitName": "test: agregados test de multiples delimitadores aceptados",
     "commitTimestamp": 1779932523769,
     "testId": 13
+  },
+  {
+    "numPassedTests": 14,
+    "failedTests": 0,
+    "numTotalTests": 14,
+    "timestamp": 1779932672823,
+    "success": true,
+    "testId": 14
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "fix: funcion arreglada",
+    "commitTimestamp": 1779932694740,
+    "testId": 14
   }
 ]
